@@ -5,7 +5,7 @@
 <h1 align="center">ʜɪ 👋, ɪ'ᴍ KujoPlatform777. ᴜsᴇʀɴᴀᴍᴇ- Edward876</h1>
 <h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edward876&label=Profile%20views&color=0e75b6&style=flat" alt="edward876" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edward876&label=Profile%20views&color=0e75b6&style=flat" alt="edward876"> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward876" alt="edward876" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a3/9a/b8/a39ab8da40260a8ea4f1a84cb0fa55e0.gif">
