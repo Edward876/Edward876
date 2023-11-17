@@ -1,44 +1,56 @@
-<h1>KujoPlatform777</h1>
+# 🌌 Welcome to the Celestial Code Symphony of Supratim! 🚀
 
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/785fcca0-facc-48a6-a7bf-022b4b89d1fc/d91qkw7-4d07daf4-e3a7-4601-b275-c9a4d78740e9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzg1ZmNjYTAtZmFjYy00OGE2LWE3YmYtMDIyYjRiODlkMWZjXC9kOTFxa3c3LTRkMDdkYWY0LWUzYTctNDYwMS1iMjc1LWM5YTRkNzg3NDBlOS5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.GybJz9vM8izQ_m6b02zujOvLaQVfpYH995vnbjMyxq0)
+<img align="right" alt="Anime GIF" width="100" height="70" src="https://gifdb.com/images/thumbnail/anime-boy-osamu-dazai-8u0nd6hjy63hc6th.gif">
 
-<h1 align="center">ʜɪ 👋, ɪ'ᴍ KujoPlatform777. ᴜsᴇʀɴᴀᴍᴇ- Edward876</h1>
-<h3 align="center">I am a noob coder. Learning javascript and Node js👀.</h3>
+Greetings, interstellar wanderer! I'm Supratim Saha, the cosmic bard known as Shilly Joestar. Brace yourself for an extraordinary journey through the cosmos of code, where every commit is a note, and each repository is a constellation in the grand tapestry of the codeverse. 🌠
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edward876&label=Profile%20views&color=0e75b6&style=flat" alt="edward876"> </p>
+- 📅 **Date of Birth:** 03/05/2003
+- 🌟 **Aliases:** Shilly Joestar | Shinichi
+- 🎓 **Student at:** Bennett University
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edward876" alt="edward876" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/a3/9a/b8/a39ab8da40260a8ea4f1a84cb0fa55e0.gif">
+## 🌈 The Cosmic Chronicles of Code
 
-- 💜✨ Name- **Shilly Joestar**
+In the vast expanse of GitHub, I transcend the ordinary, weaving code into a celestial tapestry. From debugging comets to orchestrating algorithmic galaxies, join me in the cosmic symphony of endless innovation.
 
-- 🎂 Age- **18**
+### 🚀 Celestial GitHub Stats
 
-- 🍥 My hobbys are **reading mangas, Watching animes, drawing, web surfing(surface and dark), know about open source projects**
+![Supratim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edward876&show_icons=true&count_private=true&hide=prs&theme=radical)
 
+### 🎨 Artistic Contributions Cosmos
 
-- 🔭 I’m currently working on Whatsapp bots😂
+Behold the pulsating rhythm of my Contributions Cosmos. Each commit, a stroke of paint on the canvas of the cosmic code.
 
-- 🌱 I’m currently learning **Javascript, Node js**
+![Supratim's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Edward876&theme=radical)
 
-- 💬 Ask me about- **ora ora ora ora ora!!!!!**
+### 🌌 Explore the Nebula of Repositories
 
-- 📫 How to reach me- **supratimsaha876@gmail.com**
+Embark on a journey through the Nebula of Repositories, where each project is a cosmic masterpiece waiting to be discovered.
 
-- ⚡ Fun fact- **I'm not funny. I am creepy. LOL**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward876&layout=compact&theme=radical)](https://github.com/Edward876)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kujo jotaro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kujo jotaro" height="30" width="40" /></a>
-<a href="https://instagram.com/giorno_shelly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="giorno_shelly" height="30" width="40" /></a>
+### 🎵 Harmonies of the Code Cosmos
+
+Dive into the harmonies of the Code Cosmos with my current cosmic composition:
+
+[![Now Playing](https://spotify-now-playing-sand.vercel.app/api/spotify)](https://open.spotify.com/embed/track/4ELXBKQHnfWiNt6OUcSo15?utm_source=generator)
+
+### 🌌 Cosmic Gaze of Views
+
+<img src="https://komarev.com/ghpvc/?username=Edward876" alt="Profile Views" />
+
+## 🌟 Cosmic Connection Links
+
+<p align="center">
+  <a href="https://www.instagram.com/_kudo._.shinichi_/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-shilly_joestar-celestial?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/supratim-saha-548399233">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Supratim_Saha-galactic?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/qr/2R4AEAAPWQQ4H1d">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Contact_Me-aurora?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
-<img align="left" alt="Coding" width="300" src="http://pa1.narvii.com/7118/d0832c8c7f818106ce590692af0d3d00196eebb3r1-267-320_00.gif">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edward876&show_icons=true&locale=en&layout=compact" alt="edward876" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edward876&show_icons=true&locale=en" alt="edward876" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edward876&" alt="edward876" /></p>
-<img align="center" alt="Coding" width="300" src="https://static.wikia.nocookie.net/f2bfb029-c543-476c-8fca-7c673741194f"> <h2>BYE! see you again.</h2>
+Prepare to be enchanted, explore my celestial projects, and join me in crafting a legendary saga in the boundless Code Cosmos! 🌌✨
