@@ -44,10 +44,10 @@ Dive into the harmonies of the Code Cosmos with my current cosmic composition:
   <a href="https://www.instagram.com/_kudo._.shinichi_/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-shilly_joestar-celestial?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/supratim-saha-548399233">
+  <a href="https://www.linkedin.com/in/supratim-saha-548399233">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Supratim_Saha-galactic?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/qr/2R4AEAAPWQQ4H1d">
+  <a href="https://wa.me/918509511195">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Contact_Me-aurora?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
