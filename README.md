@@ -4,9 +4,31 @@
 
 Greetings, interstellar wanderer! I'm Supratim Saha, the cosmic bard known as Shilly Joestar. Brace yourself for an extraordinary journey through the cosmos of code, where every commit is a note, and each repository is a constellation in the grand tapestry of the codeverse. 🌠
 
-- 📅 **Date of Birth:** 03/05/2003
-- 🌟 **Aliases:** Shilly Joestar | Shinichi
-- 🎓 **Student at:** Bennett University
+  ```json
+  [{
+     "Name" : "Supratim Saha",
+     "Aliases": ["Shilly Joestar", "Shinichi"],
+     "DOB" : "03-05-2003",
+     "StudentAt" : "Bennett University",
+     "Favourite Languages" : ["Javascript", "Python"],
+     "Known Languages" : ["Javascript", "Typescript", "Python", "Java", "Verilog HDL"],
+     "Hobbies" : {
+                   "Reading Novels" : { "Favourite Novels" : [
+                                                            { "Title" : "The Hound of the Baskervilles", "Author" : "Sir Arthur Conan Doyle"},
+                                                            { "Title" : "No longer human", "Author" : "Osamu Dazai"},
+                                                            { "Title" : "The Murders in the Rue Morgue", "Author" : "Edgar Allan Poe"},
+                                                            { "Title" : "The man in the iron mask", "Author" : "Alexandre Dumas"}]
+                                      },
+                   "Listening Music" : { "Favourite Musics" : [
+                                                              { "Name" : "Kataomoi" , "Author" : "Aimer"},
+                                                              { "Name" : "We don't talk anymore", "Author" : "Charlie Puth"},
+                                                              { "Name" : "Uragirimono no Requiem", "Author" : "Daisuke Hasegawa" }      
+                                                              ]
+                                       } 
+                 }
+  }]
+
+  ````
 
 ## 🌈 The Cosmic Chronicles of Code
 
