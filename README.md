@@ -60,6 +60,12 @@ Dive into the harmonies of the Code Cosmos with my current cosmic composition:
 
 <img src="https://komarev.com/ghpvc/?username=Edward876" alt="Profile Views" />
 
+
+### 🔍 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edward876&theme=radical)
+
+
+
 ## 🌟 Cosmic Connection Links
 
 <p align="center">
