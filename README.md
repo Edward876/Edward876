@@ -1,5 +1,8 @@
-# 🌌 Welcome to the Celestial Code Symphony of Supratim! 🚀
 
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D946EF&center=true&vCenter=true&width=435&lines=Celestial+Code+Symphony+of+Supratim!;JavaScript+Enthusiast;Python+Explorer;Novel+Reader;Music+Lover;Machine+Learning+Dev;Deep+Learning" alt="Typing SVG" />
+  </div>
+  
 <img align="right" alt="Anime GIF" width="100" height="70" src="https://gifdb.com/images/thumbnail/anime-boy-osamu-dazai-8u0nd6hjy63hc6th.gif">
 
 Greetings, interstellar wanderer! I'm Supratim Saha, the cosmic bard known as Shilly Joestar. Brace yourself for an extraordinary journey through the cosmos of code, where every commit is a note, and each repository is a constellation in the grand tapestry of the codeverse. 🌠
