@@ -85,3 +85,10 @@ Dive into the harmonies of the Code Cosmos with my current cosmic composition:
 
 
 Prepare to be enchanted, explore my celestial projects, and join me in crafting a legendary saga in the boundless Code Cosmos! 🌌✨
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/main/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/main/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edward876/Edward876/main/dist/github-contribution-grid-snake.svg">
+</picture>
