@@ -1,0 +1,47 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions
+name: Generate Snake
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows manual triggering
+  push:
+    branches:
+      - main # Or your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        id: snake # The step id is important for referencing output files
+        with:
+          # GitHub user name to get the contribution graph from
+          github_user_name: ${{ github.repository_owner }} # Automatically uses Edward876
+
+          # Output path for the generated SVG files
+          # The action generates both a light and dark mode SVG
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        env:
+          # GitHub token is required to fetch contribution data
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # This step commits the generated SVG files back to your repository
+      - name: Commit generated snake images
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/github-contribution-grid-snake*.svg
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update contribution snake animation"
+            git push
+          fi
