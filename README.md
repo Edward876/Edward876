@@ -16,24 +16,11 @@
 <!-- ███  TRAINER CARD  ██████████████████████████████████████████████████ -->
 ### <img src="https://img.shields.io/badge/%E2%96%B6-TRAINER_CARD-e60012?style=for-the-badge&labelColor=0d0221" alt="trainer card" />
 
-```text
-╔══ TRAINER CARD ═══════════════════════════════╗
-   NAME    ::  Supratim Saha   ( aka Shinichi )
-   CLASS   ::  AI / ML Developer
-   GUILD   ::  Bennett University · CSE (AI-ML)
-   REGION  ::  Greater Noida, India
-   ACTIVE  ::  LLM context-compression engine
-   RANK    ::  3rd-year undergrad
-╚═══════════════════════════════════════════════╝
-```
+<div align="center">
 
-```text
-  PYTHON        ███████████░░░   LV.42
-  LINUX / RICE  █████████████░   LV.55
-  PYTORCH       █████████░░░░░   LV.33
-  JAVASCRIPT    ██████████░░░░   LV.38
-  DEEP LEARNING ████████░░░░░░   LV.29
-```
+<img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/trainer.svg" alt="trainer card" width="100%" />
+
+</div>
 
 <!-- ███  MY PARTY  █████████████████████████████████████████████████████ -->
 ### <img src="https://img.shields.io/badge/%E2%96%B6-MY_PARTY-f9c80e?style=for-the-badge&labelColor=0d0221" alt="my party" />
@@ -56,17 +43,7 @@
 
 <div align="center">
 
-<sub>LANGUAGES</sub><br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash&theme=dark" alt="languages" />
-
-<sub>ML LAB</sub><br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ml" />
-
-<sub>TOOLS</sub><br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,electron,flask,git,github,docker,vercel&theme=dark" alt="tools" />
-
-<sub>TERMINAL</sub><br>
-<img src="https://skillicons.dev/icons?i=linux,arch,vim,neovim,vscode&theme=dark" alt="terminal" />
+<img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/inventory.svg" alt="inventory bag" width="100%" />
 
 </div>
 
