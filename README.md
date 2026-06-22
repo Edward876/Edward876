@@ -1,11 +1,10 @@
 <!-- ███████████████████████████████████████████████████████████████████████
-     TITLE SCREEN  (custom pixel banner — commit assets/banner.svg to repo)
+     TITLE SCREEN  (commit assets/banner.svg to repo)
 ███████████████████████████████████████████████████████████████████████ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/banner.svg" alt="Supratim Saha — title screen" width="100%" />
 
-<!-- live "now playing" ticker in a real pixel font -->
 [![status](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=700&color=41EAD4&center=true&vCenter=true&width=720&height=58&lines=NOW+PLAYING+%3A+training+models;SIDE+QUEST+%3A+ricing+hyprland;LOADING+context-compression.exe;WATCHING+%3A+champions+league)](https://github.com/Edward876)
 
 <img src="https://komarev.com/ghpvc/?username=Edward876&label=COINS&color=f9c80e&style=for-the-badge&labelColor=0d0221" alt="coins" />
@@ -50,7 +49,7 @@
   </tr>
 </table>
 
-<!-- <div align="center"><sub>swap any teammate by changing the dex number in the sprite URL ( e.g. <code>/448.gif</code> = Lucario )</sub></div> -->
+<div align="center"><sub>swap any teammate by changing the dex number in the sprite URL ( e.g. <code>/448.gif</code> = Lucario )</sub></div>
 
 <!-- ███  INVENTORY  ████████████████████████████████████████████████████ -->
 ### <img src="https://img.shields.io/badge/%E2%96%B6-INVENTORY-41ead4?style=for-the-badge&labelColor=0d0221" alt="inventory" />
@@ -71,15 +70,12 @@
 
 </div>
 
-<!-- ███  SAVE DATA  ████████████████████████████████████████████████████ -->
+<!-- ███  SAVE DATA  ████  (auto-updating pixel SVG — assets/stats.svg) ███ -->
 ### <img src="https://img.shields.io/badge/%E2%96%B6-SAVE_DATA-a8ff60?style=for-the-badge&labelColor=0d0221" alt="save data" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Edward876&show_icons=true&count_private=true&include_all_commits=true&hide=prs&hide_border=false&border_color=41ead4&bg_color=0d0221&title_color=f9c80e&icon_color=41ead4&text_color=ffffff&ring_color=e60012" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Edward876&hide_border=false&border=41ead4&background=0d0221&stroke=41ead4&ring=e60012&fire=f9c80e&currStreakLabel=41ead4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8a8a9e" alt="streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edward876&layout=compact&langs_count=8&hide_border=false&border_color=41ead4&bg_color=0d0221&title_color=f9c80e&text_color=ffffff" alt="top langs" />
+<img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/stats.svg" alt="player status" width="100%" />
 
 </div>
 
@@ -88,7 +84,7 @@
 
 <div align="center">
 
-<!-- <sub>commits become dots — Pac-Man eats your contribution year ( needs the workflow, see setup )</sub> -->
+<sub>commits become dots — Pac-Man eats your contribution year ( needs the workflow, see setup )</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/output/pacman-contribution-graph-dark.svg">
@@ -112,9 +108,13 @@
 
 <br>
 
-<!-- ███  FOOTER  ███████████████████████████████████████████████████████ -->
+<!-- ███  FOOTER  ████  (spinning coin — assets/coin.svg) ████████████████ -->
 <div align="center">
 
-[![continue](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1400&pause=400&color=F9C80E&center=true&vCenter=true&width=520&height=40&lines=%E2%96%B6+INSERT+COIN+TO+CONTINUE)](https://github.com/Edward876)
+<img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/coin.svg" height="46" alt="coin" align="middle" />
+&nbsp;&nbsp;
+<a href="https://github.com/Edward876"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1400&pause=400&color=F9C80E&center=true&vCenter=true&width=420&height=40&lines=%E2%96%B6+INSERT+COIN+TO+CONTINUE" alt="insert coin to continue" align="middle" /></a>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/coin.svg" height="46" alt="coin" align="middle" />
 
 </div>
