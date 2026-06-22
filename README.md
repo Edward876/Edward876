@@ -1,94 +1,120 @@
+<!-- ███████████████████████████████████████████████████████████████████████
+     TITLE SCREEN  (custom pixel banner — commit assets/banner.svg to repo)
+███████████████████████████████████████████████████████████████████████ -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Edward876/Edward876/main/assets/banner.svg" alt="Supratim Saha — title screen" width="100%" />
+
+<!-- live "now playing" ticker in a real pixel font -->
+[![status](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2600&pause=700&color=41EAD4&center=true&vCenter=true&width=720&height=58&lines=NOW+PLAYING+%3A+training+models;SIDE+QUEST+%3A+ricing+hyprland;LOADING+context-compression.exe;WATCHING+%3A+champions+league)](https://github.com/Edward876)
+
+<img src="https://komarev.com/ghpvc/?username=Edward876&label=COINS&color=f9c80e&style=for-the-badge&labelColor=0d0221" alt="coins" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Edward876?label=ALLIES&style=for-the-badge&color=e60012&labelColor=0d0221&logo=github" alt="allies" />
+
+</div>
+
+<!-- ███  TRAINER CARD  ██████████████████████████████████████████████████ -->
+### <img src="https://img.shields.io/badge/%E2%96%B6-TRAINER_CARD-e60012?style=for-the-badge&labelColor=0d0221" alt="trainer card" />
+
+```text
+╔══ TRAINER CARD ═══════════════════════════════╗
+   NAME    ::  Supratim Saha   ( aka Shinichi )
+   CLASS   ::  AI / ML Developer
+   GUILD   ::  Bennett University · CSE (AI-ML)
+   REGION  ::  Greater Noida, India
+   ACTIVE  ::  LLM context-compression engine
+   RANK    ::  3rd-year undergrad
+╚═══════════════════════════════════════════════╝
+```
+
+```text
+  PYTHON        ███████████░░░   LV.42
+  LINUX / RICE  █████████████░   LV.55
+  PYTORCH       █████████░░░░░   LV.33
+  JAVASCRIPT    ██████████░░░░   LV.38
+  DEEP LEARNING ████████░░░░░░   LV.29
+```
+
+<!-- ███  MY PARTY  █████████████████████████████████████████████████████ -->
+### <img src="https://img.shields.io/badge/%E2%96%B6-MY_PARTY-f9c80e?style=for-the-badge&labelColor=0d0221" alt="my party" />
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/448.gif" alt="lucario" /><br><sub><b>LUCARIO</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="gengar" /><br><sub><b>GENGAR</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" alt="charizard" /><br><sub><b>CHARIZARD</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/197.gif" alt="umbreon" /><br><sub><b>UMBREON</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/571.gif" alt="zoroark" /><br><sub><b>ZOROARK</b></sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="pikachu" /><br><sub><b>PIKACHU</b></sub></td>
+  </tr>
+</table>
+
+<div align="center"><sub>swap any teammate by changing the dex number in the sprite URL ( e.g. <code>/448.gif</code> = Lucario )</sub></div>
+
+<!-- ███  INVENTORY  ████████████████████████████████████████████████████ -->
+### <img src="https://img.shields.io/badge/%E2%96%B6-INVENTORY-41ead4?style=for-the-badge&labelColor=0d0221" alt="inventory" />
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D946EF&center=true&vCenter=true&width=435&lines=Celestial+Code+Symphony+of+Supratim!;JavaScript+Enthusiast;Python+Explorer;Novel+Reader;Music+Lover;Machine+Learning+Dev;Deep+Learning" alt="Typing SVG" />
-  </div>
-  
-<img align="right" alt="Anime GIF" width="100" height="70" src="https://gifdb.com/images/thumbnail/anime-boy-osamu-dazai-8u0nd6hjy63hc6th.gif">
 
-Greetings, interstellar wanderer! I'm Supratim Saha, the cosmic bard known as Shilly Joestar. Brace yourself for an extraordinary journey through the cosmos of code, where every commit is a note, and each repository is a constellation in the grand tapestry of the codeverse. 🌠
+<sub>LANGUAGES</sub><br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash&theme=dark" alt="languages" />
 
-  ```json
-  [{
-     "Name" : "Supratim Saha",
-     "Aliases": ["Shilly Joestar", "Shinichi"],
-     "DOB" : "03-05-2003",
-     "StudentAt" : "Bennett University",
-     "Favourite Languages" : ["Javascript", "Python"],
-     "Known Languages" : ["Javascript", "Typescript", "Python", "Java", "Verilog HDL"],
-     "Hobbies" : {
-                   "Reading Novels" : { "Favourite Novels" : [
-                                                            { "Title" : "The Hound of the Baskervilles", "Author" : "Sir Arthur Conan Doyle"},
-                                                            { "Title" : "No longer human", "Author" : "Osamu Dazai"},
-                                                            { "Title" : "The Murders in the Rue Morgue", "Author" : "Edgar Allan Poe"},
-                                                            { "Title" : "The man in the iron mask", "Author" : "Alexandre Dumas"}]
-                                      },
-                   "Listening Music" : { "Favourite Musics" : [
-                                                              { "Name" : "Kataomoi" , "Author" : "Aimer"},
-                                                              { "Name" : "We don't talk anymore", "Author" : "Charlie Puth"},
-                                                              { "Name" : "Uragirimono no Requiem", "Author" : "Daisuke Hasegawa" }      
-                                                              ]
-                                       } 
-                 }
-  }]
+<sub>ML LAB</sub><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ml" />
 
-  ````
+<sub>TOOLS</sub><br>
+<img src="https://skillicons.dev/icons?i=react,nodejs,electron,flask,git,github,docker,vercel&theme=dark" alt="tools" />
 
-## 🌈 The Cosmic Chronicles of Code
+<sub>TERMINAL</sub><br>
+<img src="https://skillicons.dev/icons?i=linux,arch,vim,neovim,vscode&theme=dark" alt="terminal" />
 
-In the vast expanse of GitHub, I transcend the ordinary, weaving code into a celestial tapestry. From debugging comets to orchestrating algorithmic galaxies, join me in the cosmic symphony of endless innovation.
+</div>
 
-### 🚀 Celestial GitHub Stats
+<!-- ███  SAVE DATA  ████████████████████████████████████████████████████ -->
+### <img src="https://img.shields.io/badge/%E2%96%B6-SAVE_DATA-a8ff60?style=for-the-badge&labelColor=0d0221" alt="save data" />
 
-![Supratim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edward876&show_icons=true&count_private=true&hide=prs&theme=radical)
+<div align="center">
 
-### 🎨 Artistic Contributions Cosmos
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Edward876&show_icons=true&count_private=true&include_all_commits=true&hide=prs&hide_border=false&border_color=41ead4&bg_color=0d0221&title_color=f9c80e&icon_color=41ead4&text_color=ffffff&ring_color=e60012" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Edward876&hide_border=false&border=41ead4&background=0d0221&stroke=41ead4&ring=e60012&fire=f9c80e&currStreakLabel=41ead4&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8a8a9e" alt="streak" />
 
-Behold the pulsating rhythm of my Contributions Cosmos. Each commit, a stroke of paint on the canvas of the cosmic code.
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edward876&layout=compact&langs_count=8&hide_border=false&border_color=41ead4&bg_color=0d0221&title_color=f9c80e&text_color=ffffff" alt="top langs" />
 
-![Supratim's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Edward876&theme=radical)
+</div>
 
-### 🌌 Explore the Nebula of Repositories
+<!-- ███  ARCADE ZONE  ██████████████████████████████████████████████████ -->
+### <img src="https://img.shields.io/badge/%E2%96%B6-ARCADE_ZONE-e60012?style=for-the-badge&labelColor=0d0221" alt="arcade zone" />
 
-Embark on a journey through the Nebula of Repositories, where each project is a cosmic masterpiece waiting to be discovered.
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edward876&layout=compact&theme=radical)](https://github.com/Edward876)
+<sub>commits become dots — Pac-Man eats your contribution year ( needs the workflow, see setup )</sub>
 
-### 🎵 Harmonies of the Code Cosmos
-
-Dive into the harmonies of the Code Cosmos with my current cosmic composition:
-
-[![Now Playing](https://spotify-now-playing-sand.vercel.app/api/spotify)](https://open.spotify.com/embed/track/4ELXBKQHnfWiNt6OUcSo15?utm_source=generator)
-
-### 🌌 Cosmic Gaze of Views
-
-<img src="https://komarev.com/ghpvc/?username=Edward876" alt="Profile Views" />
-
-
-### 🔍 Profile Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edward876&theme=radical)
-
-
-
-## 🌟 Cosmic Connection Links
-
-<p align="center">
-  <a href="https://www.instagram.com/_kudo._.shinichi_/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-shilly_joestar-celestial?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/supratim-saha-548399233">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Supratim_Saha-galactic?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/918509511195">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Contact_Me-aurora?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-
-
-Prepare to be enchanted, explore my celestial projects, and join me in crafting a legendary saga in the boundless Code Cosmos! 🌌✨
-
-<!-- Snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/main/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/main/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Edward876/Edward876/main/dist/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/output/pacman-contribution-graph.svg">
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/Edward876/Edward876/output/pacman-contribution-graph-dark.svg">
 </picture>
+
+</div>
+
+<!-- ███  CONNECT  ██████████████████████████████████████████████████████ -->
+### <img src="https://img.shields.io/badge/%E2%96%B6-CONNECT-41ead4?style=for-the-badge&labelColor=0d0221" alt="connect" />
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/supratim-saha-548399233"><img src="https://img.shields.io/badge/LINKEDIN-supratim_saha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" alt="linkedin" /></a>
+<a href="https://www.instagram.com/_kudo._.shinichi_/"><img src="https://img.shields.io/badge/INSTAGRAM-shilly_joestar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0221" alt="instagram" /></a>
+<a href="https://wa.me/918509511195"><img src="https://img.shields.io/badge/WHATSAPP-contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d0221" alt="whatsapp" /></a>
+<a href="https://github.com/Edward876"><img src="https://img.shields.io/badge/GITHUB-edward876-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" alt="github" /></a>
+
+</div>
+
+<br>
+
+<!-- ███  FOOTER  ███████████████████████████████████████████████████████ -->
+<div align="center">
+
+[![continue](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1400&pause=400&color=F9C80E&center=true&vCenter=true&width=520&height=40&lines=%E2%96%B6+INSERT+COIN+TO+CONTINUE)](https://github.com/Edward876)
+
+</div>
