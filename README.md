@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<div align="center"><sub>swap any teammate by changing the dex number in the sprite URL ( e.g. <code>/448.gif</code> = Lucario )</sub></div>
+<!-- <div align="center"><sub>swap any teammate by changing the dex number in the sprite URL ( e.g. <code>/448.gif</code> = Lucario )</sub></div> -->
 
 <!-- ███  INVENTORY  ████████████████████████████████████████████████████ -->
 ### <img src="https://img.shields.io/badge/%E2%96%B6-INVENTORY-41ead4?style=for-the-badge&labelColor=0d0221" alt="inventory" />
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-<sub>commits become dots — Pac-Man eats your contribution year ( needs the workflow, see setup )</sub>
+<!-- <sub>commits become dots — Pac-Man eats your contribution year ( needs the workflow, see setup )</sub> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edward876/Edward876/output/pacman-contribution-graph-dark.svg">
